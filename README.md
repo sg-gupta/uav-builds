@@ -47,7 +47,7 @@ Funded entirely by BSF as a student-collab build, and built with teammates **Vai
 - RunCam Phoenix 2 Pro FPV camera
 - Eachine FPV goggles (dual antenna) + 5.8GHz LHCP RP-SMA antenna + triple-feed patch antenna + RHCP SMA/RP-SMA antennas
 - TBS Smoke Stopper (safety device for first power-up)
-- Microware mini AV-to-HDMI video converter + Eachine 7" ground station screen
+- Microware mini AV-to-HDMI video converter + Eachine 7" for ground station screen
 - Nylon braided wire sleeving + zip ties for cable management
 
 ## My role across these
